@@ -1,6 +1,6 @@
 # SQL-50
 
-![download](https://github.com/user-attachments/assets/71fbbd77-e1d1-48ba-bd31-ec9d5025496b)
+https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif
 
 https://leetcode.com/studyplan/top-sql-50/
 
